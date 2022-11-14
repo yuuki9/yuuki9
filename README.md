@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/KOTLIN-blue?style=for-the-badge&logo=Kotlin&logoColor=orange"/>
   </div>
 
-  <hr>
+
   <div align="center">
   <h3>Framework</h3>
 <!--<img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=skyBlue">-->
