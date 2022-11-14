@@ -1,4 +1,3 @@
-
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -12,10 +11,11 @@
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/KOTLIN-blue?style=for-the-badge&logo=Kotlin&logoColor=orange"/>
   </div>
-<div align="center">
-  <h3>frame work</h3>
-  <br />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring badge" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" alt="Spring Boot badge" />
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white" alt="Spring Security badge" />
-  <br/>
+
+  <hr>
+  <div align="center">
+  <h3>Framework</h3>
+<!--<img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=skyBlue">-->
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=yellow">
+  <div>
