@@ -1,9 +1,4 @@
 ### Hi there 👋
-[dotenv](https://user-images.githubusercontent.com/101304194/201562890-72a7dc24-dc96-480a-9361-5e65af8eddd1.svg)
-
-<!--[docker](https://user-images.githubusercontent.com/101304194/201561670-dc6b06cb-2386-4966-b719-ca82faca8788.svg)
-
-**yuuki9/yuuki9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
