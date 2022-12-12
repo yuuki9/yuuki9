@@ -1,7 +1,6 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-
   <div align="center">
   <h3>Language</h3>
 <!--<img src="https://img.shields.io/badge/C-purple ?style=for-the-badge&logo=C&logoColor=white"/>
